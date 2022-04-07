@@ -1,0 +1,16 @@
+/target/
+test-output/
+Screenshots/
+debug.log
+C:\\Voot-V3-Web-Automation-Reports\\Chrome_Wed_Jan_29_16_14_01_IST_2020.html
+C:\\Voot-V3-Web-Automation-Reports\\Chrome_Wed_Jan_29_16_27_46_IST_2020.html
+C:\\Voot-V3-Web-Automation-Reports\\Safari_Wed_Jan_29_16_53_09_IST_2020.html
+C:\\Voot-V3-Web-Automation-Reports\\Safari_Wed_Jan_29_17_03_24_IST_2020.html
+C:\\Voot-V3-Web-Automation-Screeenshots\\Wed_Jan_29_16_28_35_IST_2020.png
+all.log
+*.log
+src/com/viacom/web/RecycleBin/test.java
+
+src/com/viacom/web/RecycleBin/sds.java
+Reports/extent-report.html
+Reports/

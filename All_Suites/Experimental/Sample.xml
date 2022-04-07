@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SampleSuite">
+ <groups>
+		<run>
+			 <include name="nonPremium" /> 
+			      
+		</run>
+	</groups>
+	
+  <test thread-count="5" name="SampleTest">
+    <classes>
+    
+   	 
+    	 <class name="com.viacom.web.RecycleBin.Sample"/>	
+       
+    </classes>
+  </test>  
+</suite>  
